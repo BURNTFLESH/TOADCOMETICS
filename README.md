@@ -82,122 +82,18 @@ body {
   <a href="#default" class="logo"><img src="https://media.discordapp.net/attachments/815728560454893589/866075017485877288/monkey.png?width=1095&height=616" height="75"/></a>
   <div class="header-right">
     <a href=file:///C:/Users/hayde/Desktop/website%20test.html#home>Home<a/>
-    <a href=https://github.com/IKENV2/Materials>Materials<a/>
+    <a href=file:///C:/Users/hayde/Desktop/Materials.html>Materials<a/>
     <a href=file:///C:/Users/hayde/Desktop/Hats.html>Hats<a/>
   </div>"
 </div>
 
-
-
-</body>
-</html>
-
-
-
-
-
-
-
-<!DOCTYPE html>
-<html>
-<body>
-
-<h1></h1>
-
-<p>Click on the image to download it:<p>
-<a href="https://cdn.discordapp.com/attachments/815728572479701012/870803577864601610/purple_mtndew.gmat" download="w3logo">
-  <img src="https://media.discordapp.net/attachments/815728572479701012/870803869003812934/2021-07-30_2.png?width=1029&height=579" alt="W3Schools" height="142">
-</a>
-
-<p>     </p>
-
-<p><b>       </p>
-
-</body>
-</html>
+<div style="padding-left:20px">
+  <h1>My cosmetics</h1>
+  <p>Here you can find my cosmetics.</p>
+  <p>Take a look.</p>
+</div>
 
 </body>
 </html>
 
 
-
-<!DOCTYPE html>
-<html>
-<body>
-
-
-<a href="https://cdn.discordapp.com/attachments/815728572479701012/870444966705500180/cheezit_.gmat" download="w3logo">
-  <img src="https://media.discordapp.net/attachments/815728572479701012/870445250085290014/2021-07-29.png?width=1029&height=579" alt="W3Schools" height="142">
-</a>
-
-
-
-</body>
-</html>
-
-
-
-<!DOCTYPE html>
-<html>
-<body>
-
-<h1></h1>
-
-<p>:<p>
-<a href="https://cdn.discordapp.com/attachments/815728572479701012/863134458571390976/Star_Wars_hologram.gmat" download="w3logo">
-  <img src="https://media.discordapp.net/attachments/815728572479701012/863134741674721340/com.AnotherAxiom.GorillaTag-20210709-150442.jpg?width=579&height=579" alt="W3Schools" height="142">
-</a>
-
-<p>     </p>
-
-<p><b>       </p>
-
-</body>
-</html>
-
-</body>
-</html>
-
-
-<!DOCTYPE html>
-<html>
-<body>
-
-<h1></h1>
-
-<p>:<p>
-<a href="https://cdn.discordapp.com/attachments/815728572479701012/862380710056689674/star_destroyer.gmat" download="w3logo">
-  <img src="https://media.discordapp.net/attachments/815728572479701012/862380422289817650/com.AnotherAxiom.GorillaTag-20210707-130513.jpg?width=579&height=579" alt="W3Schools" height="142">
-</a>
-
-<p>     </p>
-
-<p><b>       </p>
-
-</body>
-</html>
-
-</body>
-</html>
-
-
-<!DOCTYPE html>
-<html>
-<body>
-
-<h1></h1>
-
-<p>:<p>
-<a href="https://cdn.discordapp.com/attachments/815728572479701012/861722897596940308/abstract_paint.gmat" download="w3logo">
-  <img src="https://media.discordapp.net/attachments/815728572479701012/861723180770394132/com.AnotherAxiom.GorillaTag-20210705-173644.jpg?width=579&height=579" alt="W3Schools" height="142">
-</a>
-
-<p>     </p>
-
-<p><b>       </p>
-
-</body>
-</html>
-
-</body>
-</html>
